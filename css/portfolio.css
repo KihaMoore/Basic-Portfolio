@@ -46,6 +46,14 @@ li{
     
 }
 
+a{
+    text-decoration:none;
+    color:#777777;
+}
+
+a:hover{
+    color:#4aaaa5;
+}
 
 .about-wrapper{
     background-image: url("imges/intersection.png");
@@ -98,7 +106,9 @@ img{
     width:		170px;
 }
         
-
+.example1:hover{
+    color:blue;
+}
     
 .example2{
     position: relative;
